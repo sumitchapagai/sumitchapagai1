@@ -20,7 +20,7 @@ const Skills = () => {
     "HTML",
     "CSS",
     "Django",
-    "Flutter",
+    "Dot Net",
     "ReactJs",
     "NextJS",
     "NodeJs",

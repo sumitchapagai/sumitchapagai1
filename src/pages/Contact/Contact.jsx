@@ -58,7 +58,7 @@ export const Contact = () => {
         <div className="buttons">
           <div className="socials">
             <a
-              href="https://www.linkedin.com/in/teshankraut/"
+              href="https://www.linkedin.com/in/sumit-chapagai-806682280/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -67,14 +67,14 @@ export const Contact = () => {
               </IconButton>
             </a>
 
-            <a href="mailto:teshank.2137@gamil.com">
+            <a href="mailto:chapagaisuit0@gamil.com">
               <IconButton bg={green}>
                 <AiOutlineMail size={40} />
               </IconButton>
             </a>
 
             <a
-              href="https://github.com/teshank2137"
+              href="https://github.com/sumitchapagai"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -84,7 +84,7 @@ export const Contact = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1zp5khZY8XGJllzt2D8K0K47yqEk_Lkj5/view?usp=sharing"
+              href="https://drive.google.com/file/d/1WJXlaXX5hgY8QbUdw7xvMGiRi4Q1E0f2/view"
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -1,23 +1,23 @@
 import genio from "../assets/images/genio.jpeg";
 import draic from "../assets/images/image2.png";
-import rbl from "../assets/images/RBL.png";
-import stealth from "../assets/images/stealth.jpeg";
+import rbl from "../assets/images/tuki1.png";
+import stealth from "../assets/images/bcube.jpg";
 
 import { blue, green, pink, yellow } from "../utils";
 
 export const experiences = [
   {
     logo: stealth,
-    name: "Stealth Startup",
-    joined: "Sept'22",
-    end: "Feb'23",
+    name: "B cube",
+    joined: "Sept'21",
+    end: "Feb'22",
     title: "Full Stack Developer",
-    bio: "Utilized ExpressJS for backend authentication and rate limitation. The frontend ReactJS code was optimized, eliminating re-renders to enhance performance and user experience. A ReactJS and ExpressJS-based admin panel was developed for data visualization and transaction management.",
+    bio: "Utilized ExpressJS for backend authentication and rate limitation. The frontend ReactJS code was optimized, eliminating re-renders to enhance performance and user experience for transaction management.",
     color: blue,
   },
   {
     logo: rbl,
-    name: "RBL Bank",
+    name: "SoftechPark",
     joined: "June'22",
     end: "July'22",
     title: "Summer Intern",
@@ -39,7 +39,7 @@ export const experiences = [
     joined: "Sept'19",
     end: "Jan'22",
     title: "Team Member",
-    bio: "In D.Y. Patil Robotics and A.I. club we developed collaborative skills. Built amazing projects and brainstormed on various problem statements",
+    bio: "In Islington Robotics and A.I. club we developed collaborative skills. Built amazing projects and brainstormed on various problem statements",
     color: pink,
   },
 ];

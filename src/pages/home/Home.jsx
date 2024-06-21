@@ -40,7 +40,7 @@ export const Home = () => {
   return (
     <HomeWrapper ref={ref} id="home-page">
       <TextContainer>
-        <Name>Teshank Raut</Name>
+        <Name>Sumit Chapagai</Name>
         <Position>
           <div className="text first" aria-label="Full Stack Developer">
             {produceSpans("Full Stack Developer")}

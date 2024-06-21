@@ -7,9 +7,9 @@ import { blue, green, yellow } from "../../utils";
 import { Educations, Paragraph, SkillsWrapper, Text } from "./About.styled";
 import { AboutItem } from "./AboutItem";
 import Skills from "./SkillBall";
-import dyp from "../../assets/images/dyp.png";
-import highschool from "../../assets/images/highschool.jpeg";
-import sos from "../../assets/images/sos.png";
+import dyp from "../../assets/images/tribhuvan-university-tu-logo-AD67A28902-seeklogo.com.png";
+import highschool from "../../assets/images/annapurna.jpg";
+import sos from "../../assets/images/shantilogomm.png";
 import { useInView } from "react-intersection-observer";
 import { useState } from "react";
 
@@ -52,7 +52,7 @@ export const About = () => {
             I'm a passionate programmer, who is always looking for new
             challenges to improve myself, also a team player, who is always
             ready to learn new things and help others.
-            <br />I was born and raised in Nagpur, India. I love to play guitar
+            <br />I was born and raised in Nepal. I love to play guitar
             and ukulele and in my free time I like to read books, watch movies
             and play video games.
           </Paragraph>
@@ -61,15 +61,15 @@ export const About = () => {
               color={blue}
               active
               data={{
-                title: "D.Y. Patil college of engineering, Pune",
-                p: "Bachelors of Computer Engineering (2019-2023)",
+                title: "Bhairahawa Multiple Campus, Bhairahawa",
+                p: "Bachelors of Computer SCience and Information Technology (2019-2024)",
                 image: dyp,
               }}
             />
             <AboutItem
               color={green}
               data={{
-                title: "M.P. Deo D. Science College, Nagpur",
+                title: "Annapurna Model College, Butwalr",
                 p: "High School (2017-2019)",
                 image: highschool,
               }}
@@ -77,7 +77,7 @@ export const About = () => {
             <AboutItem
               color={yellow}
               data={{
-                title: "School of Scholars, Nagpur",
+                title: "Shree Shanti Namuna School, Manigram",
                 p: "Secondary Education (2007-2017)",
                 image: sos,
               }}
